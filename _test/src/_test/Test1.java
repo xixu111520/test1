@@ -6,6 +6,7 @@ public class Test1 {
 		String s = "你是逗比吗?";
 
 		int a = 10;
-
+		System.out.println(s+a);
+		System.out.println(a);
 	}
 }
